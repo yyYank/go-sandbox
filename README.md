@@ -4,11 +4,11 @@
 
 ## hello
 
-よくあるhello world
+とりあえずよくあるhello world
 
 ## hello-gomod
 
-go modをとりあえず突っ込むとこうなる
+とりあえずgo modを突っ込むとこうなる
 
 
 ## json-sample
@@ -18,3 +18,12 @@ go modをとりあえず突っ込むとこうなる
 ## echo
 
 とりあえずフレームワークのechoでサーバーを立てる
+
+
+## gorm-sample
+
+とりあえずgormを使ってみた。
+
+## unittest
+
+とりあえずユニットテストのサンプル

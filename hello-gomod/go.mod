@@ -1,4 +1,4 @@
-module example.com/hoge/hello-gomod
+module hello-gomod
 
 go 1.13
 
